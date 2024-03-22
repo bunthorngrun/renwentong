@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 from ipywidgets import interact, interactive, fixed, interact_manual
 import ipywidgets as widgets
-import numpy as np 
+import numpy as np
 from scipy.integrate import odeint
 
 
